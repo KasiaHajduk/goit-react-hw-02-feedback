@@ -2,7 +2,7 @@ import { Component } from 'react';
 
 import StatisticList from './StatisticList';
 import Section from './Section';
-import FeedbackOptions from './FeedbackOptions';
+//import FeedbackOptions from './FeedbackOptions';
 
 export default class Feedback extends Component {
     state = {
